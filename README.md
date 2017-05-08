@@ -1,2 +1,2 @@
 # RovSp_ESP8266_AP
-An EspressoLite as a WiFi Access Point for a WiFi network for the performative glove prototype to communicate via WiFi with other output devices.
+An EspressoLite acting as a WiFi Access Point for the performative glove prototype to communicate with other networked output devices.
